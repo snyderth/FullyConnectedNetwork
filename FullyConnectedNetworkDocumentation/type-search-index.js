@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"FullyConnectedNetwork","l":"Network"},{"p":"FullyConnectedNetwork","l":"Perceptron"}]
